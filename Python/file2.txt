@@ -1,0 +1,2 @@
+this is a content of file 
+copy the content of file1 to file2

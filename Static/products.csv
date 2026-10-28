@@ -1,0 +1,501 @@
+product_id,product_name,category,brand,price,stock
+P0001,Cotton T-Shirt,Books,FitLife,21575.1,314
+P0002,Water Bottle,Beauty,PrimeGoods,20944.07,340
+P0003,LED Lamp,Clothing,BrightBuy,3569.43,269
+P0004,Face Wash,Electronics,Elite,2367.01,198
+P0005,Office Chair,Beauty,Nova,17982.28,34
+P0006,Water Bottle,Beauty,UrbanStyle,38619.77,376
+P0007,Cotton T-Shirt,Beauty,Nova,17743.49,173
+P0008,Novel,Home & Kitchen,Elite,31659.45,415
+P0009,Smart Watch,Home & Kitchen,Elite,2040.79,103
+P0010,Coffee Maker,Electronics,Nova,15915.67,158
+P0011,Backpack,Toys,Elite,12814.03,385
+P0012,Mechanical Keyboard,Books,BrightBuy,43133.5,24
+P0013,Office Chair,Beauty,UrbanStyle,40006.25,223
+P0014,Novel,Toys,SmartChoice,17083.02,95
+P0015,Notebook,Grocery,BrightBuy,46229.66,265
+P0016,Smart Watch,Sports,SmartChoice,4129.56,308
+P0017,Backpack,Home & Kitchen,FitLife,16195.33,40
+P0018,Mechanical Keyboard,Beauty,FitLife,22405.61,367
+P0019,Laptop Backpack,Toys,Elite,17706.04,21
+P0020,Fitness Band,Beauty,SmartChoice,13871.86,405
+P0021,Smart Watch,Electronics,SmartChoice,18291.89,410
+P0022,Wireless Headphones,Home & Kitchen,TechPro,42462.73,347
+P0023,Bluetooth Speaker,Grocery,TechPro,3547.22,398
+P0024,Yoga Mat,Beauty,SmartChoice,47482.46,16
+P0025,Novel,Home & Kitchen,BrightBuy,18725.27,390
+P0026,Kitchen Mixer,Clothing,TechPro,26566.1,203
+P0027,Office Chair,Beauty,HomeMax,48032.9,13
+P0028,Notebook,Home & Kitchen,DailyNeeds,19470.97,287
+P0029,Office Chair,Clothing,FitLife,35260.08,109
+P0030,Notebook,Sports,HomeMax,6306.34,436
+P0031,Novel,Clothing,TechPro,44953.22,227
+P0032,Wireless Mouse,Clothing,BrightBuy,35534.12,281
+P0033,Mechanical Keyboard,Sports,TechPro,35647.09,474
+P0034,Yoga Mat,Home & Kitchen,DailyNeeds,11366.23,102
+P0035,Water Bottle,Home & Kitchen,Elite,1507.94,283
+P0036,Novel,Beauty,DailyNeeds,6661.61,452
+P0037,Smart Watch,Clothing,FitLife,20027.37,367
+P0038,LED Lamp,Grocery,SmartChoice,38503.39,421
+P0039,Cotton T-Shirt,Clothing,BrightBuy,32187.46,230
+P0040,LED Lamp,Grocery,BrightBuy,6590.06,424
+P0041,Cotton T-Shirt,Home & Kitchen,SmartChoice,25241.62,444
+P0042,Running Shoes,Electronics,DailyNeeds,7819.17,84
+P0043,Wireless Mouse,Home & Kitchen,HomeMax,17430.95,481
+P0044,Smart Watch,Sports,FitLife,9974.84,489
+P0045,Cotton T-Shirt,Sports,FitLife,30797.53,47
+P0046,Kitchen Mixer,Home & Kitchen,PrimeGoods,7877.87,337
+P0047,Kitchen Mixer,Beauty,Nova,41295.77,14
+P0048,Bluetooth Speaker,Clothing,PrimeGoods,13378.86,107
+P0049,Fitness Band,Toys,Nova,25001.3,321
+P0050,Mechanical Keyboard,Sports,Elite,12393.92,413
+P0051,Mechanical Keyboard,Toys,Elite,3833.06,30
+P0052,Novel,Home & Kitchen,SmartChoice,24314.71,104
+P0053,Fitness Band,Beauty,TechPro,15765.61,367
+P0054,Yoga Mat,Beauty,SmartChoice,6711.15,189
+P0055,Wireless Mouse,Clothing,HomeMax,23429.33,136
+P0056,Water Bottle,Grocery,TechPro,5020.22,148
+P0057,Fitness Band,Toys,SmartChoice,12562.86,443
+P0058,Wireless Mouse,Home & Kitchen,PrimeGoods,36111.2,97
+P0059,Notebook,Home & Kitchen,DailyNeeds,23446.39,450
+P0060,Notebook,Sports,Nova,4683.44,201
+P0061,Water Bottle,Grocery,HomeMax,29249.54,24
+P0062,Mechanical Keyboard,Electronics,Elite,29955.43,431
+P0063,Mechanical Keyboard,Grocery,DailyNeeds,606.23,55
+P0064,Cotton T-Shirt,Toys,FitLife,36428.9,391
+P0065,Yoga Mat,Toys,Nova,20147.96,291
+P0066,Yoga Mat,Books,DailyNeeds,14571.36,197
+P0067,Backpack,Grocery,FitLife,41299.5,319
+P0068,Cotton T-Shirt,Clothing,UrbanStyle,19815.4,406
+P0069,Backpack,Beauty,BrightBuy,37796.27,101
+P0070,LED Lamp,Toys,Nova,2455.11,70
+P0071,Notebook,Beauty,DailyNeeds,22957.03,310
+P0072,Wireless Mouse,Home & Kitchen,PrimeGoods,16061.8,201
+P0073,Kitchen Mixer,Sports,BrightBuy,25463.29,260
+P0074,Kitchen Mixer,Grocery,FitLife,23848.65,8
+P0075,Wireless Mouse,Beauty,UrbanStyle,48997.92,298
+P0076,Wireless Headphones,Sports,PrimeGoods,23833.59,495
+P0077,Bluetooth Speaker,Books,PrimeGoods,24125.35,268
+P0078,Cotton T-Shirt,Toys,HomeMax,1771.21,485
+P0079,Coffee Maker,Clothing,Nova,22162.72,214
+P0080,Sunglasses,Home & Kitchen,HomeMax,20635.79,396
+P0081,Bluetooth Speaker,Grocery,TechPro,26029.42,287
+P0082,Notebook,Beauty,DailyNeeds,18964.87,489
+P0083,Novel,Home & Kitchen,DailyNeeds,17246.89,181
+P0084,Fitness Band,Sports,Elite,9773.76,126
+P0085,Backpack,Sports,FitLife,11397.38,498
+P0086,Mechanical Keyboard,Sports,HomeMax,34572.95,250
+P0087,Notebook,Beauty,BrightBuy,28111.28,478
+P0088,Mechanical Keyboard,Sports,UrbanStyle,28758.14,278
+P0089,Face Wash,Toys,BrightBuy,47738.52,411
+P0090,Mechanical Keyboard,Home & Kitchen,Nova,14522.99,365
+P0091,Yoga Mat,Clothing,Elite,32866.41,382
+P0092,Coffee Maker,Grocery,HomeMax,41430.99,138
+P0093,Cotton T-Shirt,Sports,UrbanStyle,30859.72,300
+P0094,Water Bottle,Books,Nova,33556.73,271
+P0095,Water Bottle,Books,Nova,5188.86,169
+P0096,Running Shoes,Grocery,TechPro,457.04,281
+P0097,Sunglasses,Home & Kitchen,Elite,23975.94,102
+P0098,Wireless Mouse,Sports,FitLife,32364.72,464
+P0099,Kitchen Mixer,Clothing,HomeMax,26849.58,370
+P0100,Laptop Backpack,Electronics,SmartChoice,44134.8,90
+P0101,Face Wash,Electronics,Elite,9477.32,383
+P0102,Bluetooth Speaker,Sports,Nova,15058.93,308
+P0103,Wireless Mouse,Clothing,FitLife,22825.58,328
+P0104,Cotton T-Shirt,Grocery,DailyNeeds,23506.43,98
+P0105,Wireless Mouse,Clothing,TechPro,36608.74,331
+P0106,Laptop Backpack,Sports,Nova,36882.57,404
+P0107,Kitchen Mixer,Sports,HomeMax,8938.65,438
+P0108,Sunglasses,Toys,DailyNeeds,16529.75,205
+P0109,Laptop Backpack,Clothing,TechPro,23976.21,479
+P0110,Wireless Headphones,Books,FitLife,19301.0,228
+P0111,Wireless Mouse,Sports,FitLife,29205.55,293
+P0112,Office Chair,Electronics,BrightBuy,34698.88,31
+P0113,Novel,Clothing,FitLife,8152.9,351
+P0114,Running Shoes,Sports,FitLife,18502.69,113
+P0115,Cotton T-Shirt,Books,Elite,7827.64,382
+P0116,Sunglasses,Beauty,DailyNeeds,45656.29,387
+P0117,Water Bottle,Books,PrimeGoods,43681.13,41
+P0118,LED Lamp,Grocery,BrightBuy,4088.52,288
+P0119,Bluetooth Speaker,Clothing,DailyNeeds,45162.83,103
+P0120,Laptop Backpack,Home & Kitchen,BrightBuy,42752.4,226
+P0121,Coffee Maker,Clothing,PrimeGoods,24542.63,460
+P0122,Bluetooth Speaker,Grocery,Elite,6769.83,212
+P0123,Kitchen Mixer,Grocery,Nova,28027.1,344
+P0124,Wireless Headphones,Sports,SmartChoice,12870.97,1
+P0125,Kitchen Mixer,Books,UrbanStyle,2454.43,176
+P0126,Backpack,Clothing,Nova,46741.22,35
+P0127,Bluetooth Speaker,Grocery,FitLife,20560.57,393
+P0128,Sunglasses,Home & Kitchen,BrightBuy,49643.26,195
+P0129,Face Wash,Grocery,SmartChoice,4195.45,493
+P0130,Yoga Mat,Home & Kitchen,UrbanStyle,9086.99,275
+P0131,LED Lamp,Toys,TechPro,36446.34,114
+P0132,Wireless Headphones,Electronics,FitLife,23256.59,368
+P0133,Backpack,Toys,SmartChoice,41202.35,126
+P0134,Yoga Mat,Grocery,TechPro,13926.36,479
+P0135,Bluetooth Speaker,Clothing,SmartChoice,30822.18,479
+P0136,Water Bottle,Electronics,HomeMax,3550.09,304
+P0137,Novel,Electronics,PrimeGoods,33665.78,446
+P0138,Water Bottle,Electronics,Nova,20231.81,119
+P0139,Bluetooth Speaker,Books,TechPro,25293.01,148
+P0140,Kitchen Mixer,Books,BrightBuy,28957.25,395
+P0141,Water Bottle,Beauty,FitLife,43836.66,338
+P0142,Sunglasses,Books,FitLife,13901.67,285
+P0143,Sunglasses,Home & Kitchen,DailyNeeds,24880.92,497
+P0144,Face Wash,Beauty,DailyNeeds,16071.98,213
+P0145,Cotton T-Shirt,Toys,FitLife,18946.72,386
+P0146,Water Bottle,Grocery,HomeMax,15175.67,362
+P0147,Novel,Home & Kitchen,Nova,28205.82,495
+P0148,Backpack,Toys,DailyNeeds,6876.82,124
+P0149,Coffee Maker,Sports,BrightBuy,32404.95,472
+P0150,Yoga Mat,Grocery,UrbanStyle,26873.65,424
+P0151,Bluetooth Speaker,Books,FitLife,18981.97,309
+P0152,Smart Watch,Electronics,HomeMax,40270.6,300
+P0153,Notebook,Books,HomeMax,43498.8,170
+P0154,Wireless Headphones,Sports,HomeMax,46869.56,492
+P0155,Notebook,Clothing,HomeMax,34841.19,360
+P0156,Face Wash,Books,HomeMax,27692.55,397
+P0157,Face Wash,Sports,Elite,26774.78,183
+P0158,Office Chair,Sports,BrightBuy,25737.26,254
+P0159,Running Shoes,Grocery,Elite,38128.12,163
+P0160,Yoga Mat,Books,BrightBuy,20812.72,288
+P0161,Cotton T-Shirt,Books,Nova,13185.55,478
+P0162,Mechanical Keyboard,Toys,TechPro,9969.35,117
+P0163,Kitchen Mixer,Toys,HomeMax,25064.21,335
+P0164,Office Chair,Beauty,Elite,48331.11,328
+P0165,Novel,Grocery,TechPro,36691.06,180
+P0166,Cotton T-Shirt,Home & Kitchen,DailyNeeds,24517.15,469
+P0167,LED Lamp,Electronics,Nova,41984.61,38
+P0168,Wireless Headphones,Electronics,SmartChoice,7046.08,322
+P0169,Smart Watch,Books,TechPro,654.24,258
+P0170,Yoga Mat,Grocery,Nova,30967.19,341
+P0171,Notebook,Grocery,Nova,528.3,282
+P0172,Wireless Headphones,Toys,Nova,26564.0,140
+P0173,Wireless Headphones,Sports,DailyNeeds,40694.23,345
+P0174,Laptop Backpack,Toys,UrbanStyle,45917.83,268
+P0175,Water Bottle,Home & Kitchen,HomeMax,31064.09,129
+P0176,Office Chair,Beauty,SmartChoice,4134.16,491
+P0177,Novel,Toys,PrimeGoods,12310.75,356
+P0178,Mechanical Keyboard,Books,UrbanStyle,32755.04,439
+P0179,Smart Watch,Electronics,SmartChoice,19086.35,282
+P0180,Bluetooth Speaker,Grocery,Nova,35200.69,42
+P0181,Sunglasses,Grocery,BrightBuy,28378.66,439
+P0182,LED Lamp,Clothing,Nova,11641.37,461
+P0183,Office Chair,Grocery,Nova,46222.13,350
+P0184,Backpack,Sports,PrimeGoods,32972.84,91
+P0185,Wireless Headphones,Beauty,HomeMax,29433.4,385
+P0186,Smart Watch,Toys,FitLife,8289.02,123
+P0187,Backpack,Toys,BrightBuy,19314.54,378
+P0188,Smart Watch,Home & Kitchen,DailyNeeds,37322.74,177
+P0189,Running Shoes,Electronics,SmartChoice,11759.77,38
+P0190,Fitness Band,Beauty,PrimeGoods,47750.95,203
+P0191,Wireless Headphones,Beauty,FitLife,39219.7,230
+P0192,Water Bottle,Grocery,BrightBuy,27740.28,192
+P0193,Laptop Backpack,Toys,PrimeGoods,33100.46,43
+P0194,Water Bottle,Sports,UrbanStyle,4284.49,78
+P0195,Cotton T-Shirt,Toys,SmartChoice,15969.58,54
+P0196,Wireless Headphones,Clothing,FitLife,22346.85,389
+P0197,Running Shoes,Sports,TechPro,4546.4,220
+P0198,Backpack,Grocery,DailyNeeds,25718.55,52
+P0199,Smart Watch,Electronics,BrightBuy,27799.15,305
+P0200,Face Wash,Beauty,Nova,14733.0,198
+P0201,Backpack,Clothing,HomeMax,28682.63,86
+P0202,Laptop Backpack,Toys,TechPro,13591.16,137
+P0203,Cotton T-Shirt,Grocery,UrbanStyle,8525.93,141
+P0204,Mechanical Keyboard,Toys,Elite,39175.8,184
+P0205,Water Bottle,Sports,Elite,29770.56,100
+P0206,Running Shoes,Grocery,TechPro,15370.97,485
+P0207,Wireless Mouse,Toys,PrimeGoods,19117.52,441
+P0208,Novel,Beauty,BrightBuy,21643.69,421
+P0209,Mechanical Keyboard,Home & Kitchen,BrightBuy,30238.92,355
+P0210,Notebook,Books,BrightBuy,9045.34,203
+P0211,Mechanical Keyboard,Beauty,Elite,48393.6,400
+P0212,Wireless Mouse,Books,SmartChoice,14157.95,402
+P0213,Yoga Mat,Toys,UrbanStyle,46615.94,102
+P0214,Backpack,Home & Kitchen,Nova,47658.63,236
+P0215,Novel,Books,FitLife,41596.83,35
+P0216,Notebook,Toys,TechPro,31739.13,123
+P0217,Cotton T-Shirt,Sports,SmartChoice,39495.02,37
+P0218,Fitness Band,Grocery,Elite,29194.75,273
+P0219,Backpack,Toys,Nova,39576.9,184
+P0220,Running Shoes,Clothing,HomeMax,32947.56,181
+P0221,Fitness Band,Home & Kitchen,Nova,28247.37,330
+P0222,Wireless Mouse,Toys,SmartChoice,5475.04,50
+P0223,Water Bottle,Sports,DailyNeeds,37392.28,285
+P0224,Novel,Books,BrightBuy,19677.48,395
+P0225,Yoga Mat,Home & Kitchen,Nova,24241.0,151
+P0226,Smart Watch,Toys,UrbanStyle,41598.62,373
+P0227,Yoga Mat,Home & Kitchen,FitLife,17283.72,401
+P0228,LED Lamp,Books,Elite,17544.35,49
+P0229,Novel,Grocery,BrightBuy,3544.28,22
+P0230,Wireless Headphones,Clothing,BrightBuy,32467.9,346
+P0231,Water Bottle,Home & Kitchen,DailyNeeds,8886.77,81
+P0232,Backpack,Beauty,SmartChoice,47930.44,118
+P0233,Laptop Backpack,Toys,TechPro,32094.85,221
+P0234,Wireless Headphones,Toys,PrimeGoods,44177.25,230
+P0235,Face Wash,Toys,Nova,35294.83,105
+P0236,Smart Watch,Sports,PrimeGoods,5266.25,446
+P0237,Yoga Mat,Home & Kitchen,BrightBuy,10013.3,58
+P0238,Notebook,Sports,DailyNeeds,48301.64,160
+P0239,Fitness Band,Toys,SmartChoice,29431.83,178
+P0240,Novel,Beauty,PrimeGoods,8790.87,344
+P0241,Fitness Band,Sports,PrimeGoods,4419.65,68
+P0242,Running Shoes,Beauty,HomeMax,15406.92,93
+P0243,Cotton T-Shirt,Beauty,DailyNeeds,19544.47,305
+P0244,Kitchen Mixer,Home & Kitchen,SmartChoice,21266.33,249
+P0245,Backpack,Home & Kitchen,TechPro,24583.17,71
+P0246,Wireless Mouse,Home & Kitchen,Elite,31045.62,443
+P0247,Wireless Headphones,Beauty,Elite,6998.43,417
+P0248,Backpack,Toys,DailyNeeds,32721.87,209
+P0249,Sunglasses,Grocery,Elite,24536.24,42
+P0250,Water Bottle,Electronics,FitLife,1827.22,115
+P0251,Laptop Backpack,Sports,Elite,28368.39,395
+P0252,Backpack,Grocery,DailyNeeds,5836.91,58
+P0253,Backpack,Sports,BrightBuy,27192.76,387
+P0254,Novel,Electronics,DailyNeeds,11082.39,217
+P0255,Water Bottle,Clothing,FitLife,43764.53,16
+P0256,Office Chair,Grocery,BrightBuy,43136.54,44
+P0257,Running Shoes,Grocery,HomeMax,10650.93,377
+P0258,Fitness Band,Beauty,SmartChoice,8464.88,71
+P0259,Coffee Maker,Books,Nova,28588.7,272
+P0260,Fitness Band,Sports,DailyNeeds,8584.19,360
+P0261,Mechanical Keyboard,Sports,PrimeGoods,13512.68,439
+P0262,Cotton T-Shirt,Clothing,SmartChoice,45953.68,141
+P0263,Cotton T-Shirt,Home & Kitchen,HomeMax,7481.92,164
+P0264,Face Wash,Books,Elite,7279.15,323
+P0265,Sunglasses,Sports,SmartChoice,22708.19,324
+P0266,Face Wash,Clothing,DailyNeeds,37539.16,355
+P0267,Novel,Beauty,Elite,16498.01,1
+P0268,Novel,Clothing,BrightBuy,42534.29,407
+P0269,Coffee Maker,Toys,SmartChoice,41276.41,253
+P0270,Wireless Mouse,Sports,FitLife,17019.21,295
+P0271,Kitchen Mixer,Home & Kitchen,Elite,39456.52,457
+P0272,Bluetooth Speaker,Electronics,UrbanStyle,31382.74,428
+P0273,Wireless Headphones,Grocery,UrbanStyle,46484.76,80
+P0274,Novel,Grocery,Nova,49592.54,219
+P0275,Cotton T-Shirt,Books,FitLife,8116.08,477
+P0276,Smart Watch,Sports,BrightBuy,12668.39,190
+P0277,Bluetooth Speaker,Home & Kitchen,SmartChoice,31354.09,371
+P0278,Sunglasses,Books,UrbanStyle,35243.16,0
+P0279,Notebook,Books,UrbanStyle,6807.45,115
+P0280,Wireless Headphones,Grocery,Nova,34839.74,418
+P0281,Sunglasses,Clothing,TechPro,23988.47,117
+P0282,Smart Watch,Toys,UrbanStyle,5338.44,188
+P0283,Cotton T-Shirt,Sports,SmartChoice,38717.33,385
+P0284,Cotton T-Shirt,Home & Kitchen,UrbanStyle,26618.31,4
+P0285,Novel,Home & Kitchen,BrightBuy,36176.11,321
+P0286,Sunglasses,Home & Kitchen,PrimeGoods,34390.0,440
+P0287,Smart Watch,Books,UrbanStyle,7171.65,63
+P0288,Yoga Mat,Toys,SmartChoice,15861.28,71
+P0289,Office Chair,Books,UrbanStyle,12557.72,307
+P0290,Wireless Headphones,Sports,FitLife,10430.2,310
+P0291,Face Wash,Books,FitLife,32378.25,401
+P0292,Notebook,Books,SmartChoice,5813.63,255
+P0293,LED Lamp,Clothing,Nova,49345.75,478
+P0294,Cotton T-Shirt,Beauty,SmartChoice,43067.54,291
+P0295,Yoga Mat,Toys,DailyNeeds,34209.51,390
+P0296,Smart Watch,Grocery,Nova,29449.7,7
+P0297,Coffee Maker,Sports,Nova,46143.45,485
+P0298,LED Lamp,Toys,FitLife,31501.82,256
+P0299,Sunglasses,Toys,SmartChoice,4303.91,274
+P0300,Office Chair,Home & Kitchen,UrbanStyle,15632.36,261
+P0301,Cotton T-Shirt,Books,DailyNeeds,16471.16,300
+P0302,Mechanical Keyboard,Clothing,SmartChoice,36550.93,433
+P0303,Bluetooth Speaker,Books,HomeMax,4492.4,222
+P0304,Novel,Clothing,PrimeGoods,30518.85,158
+P0305,Running Shoes,Home & Kitchen,Nova,35452.45,359
+P0306,Laptop Backpack,Electronics,Elite,47659.21,267
+P0307,Laptop Backpack,Sports,BrightBuy,6520.14,399
+P0308,Running Shoes,Sports,Nova,16882.55,219
+P0309,LED Lamp,Sports,UrbanStyle,13293.89,499
+P0310,Notebook,Clothing,Elite,25635.94,28
+P0311,Kitchen Mixer,Grocery,TechPro,18509.85,130
+P0312,Kitchen Mixer,Clothing,UrbanStyle,11573.54,260
+P0313,Bluetooth Speaker,Electronics,Nova,12377.66,241
+P0314,Face Wash,Beauty,TechPro,9111.25,491
+P0315,Backpack,Electronics,SmartChoice,11379.86,127
+P0316,Wireless Mouse,Toys,FitLife,41333.65,292
+P0317,Running Shoes,Beauty,DailyNeeds,33730.62,26
+P0318,Water Bottle,Home & Kitchen,DailyNeeds,49073.41,488
+P0319,Smart Watch,Toys,Elite,43327.41,396
+P0320,Wireless Mouse,Sports,UrbanStyle,27742.95,4
+P0321,Coffee Maker,Beauty,FitLife,28276.58,155
+P0322,Novel,Books,BrightBuy,29665.21,252
+P0323,Backpack,Books,HomeMax,7697.21,477
+P0324,Wireless Headphones,Toys,HomeMax,27167.95,325
+P0325,Wireless Mouse,Electronics,Nova,37993.67,192
+P0326,Running Shoes,Sports,HomeMax,26583.76,121
+P0327,Notebook,Toys,Nova,48632.45,72
+P0328,Smart Watch,Sports,Nova,46078.47,459
+P0329,Yoga Mat,Toys,Elite,48731.83,43
+P0330,LED Lamp,Clothing,TechPro,31932.34,201
+P0331,Kitchen Mixer,Clothing,PrimeGoods,3300.69,339
+P0332,Water Bottle,Home & Kitchen,FitLife,13196.35,161
+P0333,Wireless Mouse,Toys,BrightBuy,22746.34,119
+P0334,Coffee Maker,Clothing,TechPro,39039.86,299
+P0335,Cotton T-Shirt,Clothing,UrbanStyle,8384.87,238
+P0336,Sunglasses,Beauty,UrbanStyle,26888.04,493
+P0337,Novel,Books,FitLife,23273.66,436
+P0338,Smart Watch,Clothing,TechPro,40417.33,155
+P0339,Coffee Maker,Electronics,BrightBuy,7585.53,364
+P0340,Yoga Mat,Books,SmartChoice,25769.29,346
+P0341,Office Chair,Sports,TechPro,1746.89,207
+P0342,Backpack,Grocery,DailyNeeds,12641.66,236
+P0343,Cotton T-Shirt,Clothing,UrbanStyle,794.45,425
+P0344,Cotton T-Shirt,Books,HomeMax,41217.94,190
+P0345,Kitchen Mixer,Clothing,PrimeGoods,13088.27,416
+P0346,Wireless Headphones,Clothing,UrbanStyle,10046.97,330
+P0347,Cotton T-Shirt,Grocery,UrbanStyle,45271.88,424
+P0348,Running Shoes,Beauty,Nova,47124.58,25
+P0349,Kitchen Mixer,Home & Kitchen,SmartChoice,41118.93,202
+P0350,Wireless Headphones,Grocery,SmartChoice,34223.0,88
+P0351,Coffee Maker,Beauty,TechPro,13893.09,228
+P0352,Bluetooth Speaker,Home & Kitchen,PrimeGoods,31033.99,125
+P0353,Notebook,Sports,SmartChoice,44161.37,245
+P0354,Smart Watch,Electronics,FitLife,19273.16,214
+P0355,LED Lamp,Books,HomeMax,31610.57,410
+P0356,Face Wash,Electronics,BrightBuy,24087.29,400
+P0357,Yoga Mat,Grocery,PrimeGoods,25218.18,198
+P0358,Laptop Backpack,Sports,Nova,16079.1,112
+P0359,Office Chair,Electronics,Nova,40469.96,241
+P0360,Kitchen Mixer,Beauty,HomeMax,48703.2,51
+P0361,Water Bottle,Books,FitLife,26776.74,405
+P0362,Water Bottle,Electronics,PrimeGoods,42354.95,408
+P0363,Yoga Mat,Toys,TechPro,8968.8,303
+P0364,Yoga Mat,Beauty,PrimeGoods,1603.69,358
+P0365,Kitchen Mixer,Beauty,PrimeGoods,7275.69,485
+P0366,Notebook,Books,DailyNeeds,15589.84,251
+P0367,Smart Watch,Electronics,Nova,11783.64,112
+P0368,LED Lamp,Electronics,Elite,233.04,469
+P0369,Cotton T-Shirt,Books,BrightBuy,35902.49,470
+P0370,Bluetooth Speaker,Beauty,Nova,7555.06,360
+P0371,Running Shoes,Home & Kitchen,DailyNeeds,43060.34,491
+P0372,Yoga Mat,Clothing,SmartChoice,29382.63,172
+P0373,Wireless Mouse,Sports,TechPro,48796.86,374
+P0374,Notebook,Toys,BrightBuy,8874.29,495
+P0375,Water Bottle,Beauty,PrimeGoods,40758.82,193
+P0376,Mechanical Keyboard,Sports,TechPro,9048.87,0
+P0377,Kitchen Mixer,Toys,Nova,9266.67,162
+P0378,Kitchen Mixer,Books,UrbanStyle,46846.05,72
+P0379,Smart Watch,Beauty,HomeMax,17470.14,163
+P0380,Smart Watch,Home & Kitchen,BrightBuy,22441.17,135
+P0381,Water Bottle,Books,UrbanStyle,17652.96,402
+P0382,Wireless Headphones,Clothing,Nova,19418.67,375
+P0383,Laptop Backpack,Toys,SmartChoice,24754.48,193
+P0384,Backpack,Beauty,SmartChoice,5250.14,245
+P0385,Laptop Backpack,Books,Elite,3869.73,433
+P0386,Mechanical Keyboard,Electronics,Nova,16071.1,487
+P0387,Smart Watch,Clothing,BrightBuy,8670.24,192
+P0388,Smart Watch,Home & Kitchen,DailyNeeds,47102.34,500
+P0389,Wireless Mouse,Clothing,PrimeGoods,49265.75,457
+P0390,Wireless Headphones,Grocery,SmartChoice,47132.62,84
+P0391,Laptop Backpack,Toys,Nova,5241.64,105
+P0392,Sunglasses,Books,DailyNeeds,36156.5,373
+P0393,Mechanical Keyboard,Sports,FitLife,12028.9,25
+P0394,Kitchen Mixer,Toys,DailyNeeds,42023.75,78
+P0395,Yoga Mat,Electronics,Nova,21493.78,150
+P0396,Coffee Maker,Grocery,UrbanStyle,1480.64,87
+P0397,Smart Watch,Sports,Elite,42218.7,157
+P0398,Notebook,Toys,Elite,44763.9,135
+P0399,Backpack,Clothing,SmartChoice,9406.08,453
+P0400,Yoga Mat,Toys,TechPro,22398.61,134
+P0401,Novel,Grocery,FitLife,11465.87,137
+P0402,Cotton T-Shirt,Electronics,UrbanStyle,4467.22,176
+P0403,Kitchen Mixer,Toys,HomeMax,27768.37,430
+P0404,LED Lamp,Toys,SmartChoice,48287.26,351
+P0405,Kitchen Mixer,Grocery,HomeMax,23916.86,40
+P0406,Bluetooth Speaker,Toys,DailyNeeds,28645.75,264
+P0407,Running Shoes,Home & Kitchen,Elite,8808.37,85
+P0408,Coffee Maker,Books,TechPro,2324.26,40
+P0409,Coffee Maker,Toys,TechPro,41737.58,132
+P0410,Smart Watch,Beauty,UrbanStyle,19526.34,203
+P0411,Office Chair,Beauty,DailyNeeds,23015.23,447
+P0412,Fitness Band,Electronics,PrimeGoods,26222.59,214
+P0413,Sunglasses,Clothing,TechPro,7579.35,301
+P0414,Running Shoes,Clothing,PrimeGoods,39020.33,402
+P0415,Backpack,Sports,BrightBuy,43918.1,135
+P0416,Notebook,Toys,PrimeGoods,30525.32,19
+P0417,Office Chair,Home & Kitchen,SmartChoice,7362.86,311
+P0418,Bluetooth Speaker,Toys,SmartChoice,44499.8,169
+P0419,Bluetooth Speaker,Books,Elite,46056.58,459
+P0420,Wireless Headphones,Beauty,BrightBuy,40904.82,155
+P0421,Office Chair,Sports,Elite,42939.09,350
+P0422,Water Bottle,Clothing,TechPro,15162.93,380
+P0423,Wireless Mouse,Grocery,FitLife,36493.21,309
+P0424,Coffee Maker,Clothing,Elite,10726.25,421
+P0425,Notebook,Toys,DailyNeeds,43385.01,420
+P0426,LED Lamp,Electronics,TechPro,3466.72,363
+P0427,Cotton T-Shirt,Toys,DailyNeeds,43989.76,14
+P0428,Coffee Maker,Home & Kitchen,HomeMax,41880.44,127
+P0429,Novel,Electronics,Nova,45916.95,360
+P0430,Office Chair,Books,BrightBuy,41209.61,258
+P0431,Running Shoes,Toys,Nova,12247.52,250
+P0432,Laptop Backpack,Grocery,Elite,29425.64,179
+P0433,Laptop Backpack,Beauty,FitLife,37497.26,352
+P0434,Mechanical Keyboard,Clothing,Nova,19449.97,83
+P0435,Water Bottle,Books,HomeMax,33948.22,137
+P0436,LED Lamp,Toys,Nova,43257.57,495
+P0437,Notebook,Electronics,TechPro,32438.1,307
+P0438,Water Bottle,Electronics,FitLife,30494.53,482
+P0439,Office Chair,Sports,SmartChoice,44794.05,436
+P0440,Novel,Beauty,FitLife,11065.81,154
+P0441,Kitchen Mixer,Toys,UrbanStyle,564.91,339
+P0442,Backpack,Beauty,PrimeGoods,30529.7,152
+P0443,Notebook,Clothing,UrbanStyle,16945.93,141
+P0444,Office Chair,Beauty,FitLife,32873.76,487
+P0445,Coffee Maker,Sports,TechPro,25960.22,123
+P0446,Fitness Band,Electronics,SmartChoice,33093.41,348
+P0447,Wireless Headphones,Home & Kitchen,Elite,49872.96,132
+P0448,Face Wash,Toys,SmartChoice,36888.26,298
+P0449,Wireless Mouse,Books,HomeMax,34377.64,326
+P0450,Yoga Mat,Grocery,DailyNeeds,15148.7,87
+P0451,Mechanical Keyboard,Home & Kitchen,UrbanStyle,23643.89,379
+P0452,Backpack,Sports,TechPro,47355.78,460
+P0453,Smart Watch,Beauty,HomeMax,17892.11,381
+P0454,Sunglasses,Sports,BrightBuy,18708.79,299
+P0455,Novel,Sports,UrbanStyle,23631.72,443
+P0456,Notebook,Clothing,HomeMax,25122.77,444
+P0457,LED Lamp,Toys,FitLife,20771.74,445
+P0458,Cotton T-Shirt,Home & Kitchen,HomeMax,17263.96,291
+P0459,Cotton T-Shirt,Grocery,BrightBuy,43146.22,92
+P0460,Notebook,Clothing,BrightBuy,31624.43,90
+P0461,Bluetooth Speaker,Beauty,Nova,22711.25,107
+P0462,Kitchen Mixer,Home & Kitchen,TechPro,24579.94,390
+P0463,Cotton T-Shirt,Clothing,PrimeGoods,21797.83,219
+P0464,Sunglasses,Toys,Elite,19288.16,19
+P0465,Yoga Mat,Books,Nova,44620.92,387
+P0466,Wireless Headphones,Books,Nova,31408.01,127
+P0467,Yoga Mat,Books,FitLife,6619.75,196
+P0468,Laptop Backpack,Sports,UrbanStyle,41226.42,152
+P0469,Novel,Sports,DailyNeeds,29898.22,172
+P0470,Cotton T-Shirt,Toys,BrightBuy,49806.72,250
+P0471,Coffee Maker,Beauty,TechPro,47413.6,470
+P0472,Wireless Headphones,Toys,HomeMax,11370.2,67
+P0473,Wireless Headphones,Books,PrimeGoods,25329.75,63
+P0474,Bluetooth Speaker,Beauty,SmartChoice,43850.9,130
+P0475,Fitness Band,Electronics,Nova,33165.1,334
+P0476,Bluetooth Speaker,Electronics,UrbanStyle,20954.42,194
+P0477,Backpack,Clothing,FitLife,23823.94,78
+P0478,Wireless Headphones,Books,FitLife,21158.4,51
+P0479,Fitness Band,Sports,PrimeGoods,35095.17,214
+P0480,LED Lamp,Clothing,PrimeGoods,6062.18,58
+P0481,Notebook,Clothing,HomeMax,30527.29,398
+P0482,LED Lamp,Sports,HomeMax,18023.51,209
+P0483,Laptop Backpack,Sports,Nova,27496.31,466
+P0484,Notebook,Books,BrightBuy,11877.36,6
+P0485,Running Shoes,Clothing,PrimeGoods,33516.29,76
+P0486,LED Lamp,Clothing,UrbanStyle,36232.47,51
+P0487,Water Bottle,Sports,Elite,49434.56,151
+P0488,Novel,Sports,Nova,5169.48,89
+P0489,Mechanical Keyboard,Electronics,BrightBuy,40118.49,160
+P0490,Running Shoes,Toys,UrbanStyle,42591.05,455
+P0491,Wireless Headphones,Electronics,TechPro,33234.08,87
+P0492,Yoga Mat,Beauty,Elite,47762.44,137
+P0493,Yoga Mat,Clothing,BrightBuy,9305.9,205
+P0494,Novel,Toys,FitLife,41817.28,353
+P0495,Sunglasses,Grocery,TechPro,5829.22,356
+P0496,Laptop Backpack,Electronics,UrbanStyle,20917.18,302
+P0497,Kitchen Mixer,Grocery,Elite,9225.78,194
+P0498,Fitness Band,Beauty,Nova,43155.27,450
+P0499,Notebook,Home & Kitchen,Elite,5823.29,210
+P0500,Bluetooth Speaker,Grocery,UrbanStyle,13227.32,160
